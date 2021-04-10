@@ -1,9 +1,12 @@
-# Spotify-data-Analysis
-### Analysing top tracks on Spotify using spotifyr and ggplot2 (answering valuable questions with data)
+# Spotify-data-Analysis done by MUNISH SHARMA
+
+### DATA Science project of Munish Sharma
+
+### Analysing top tracks on Spotify using spotifyr and ggplot2 packages (answering valuable questions with data)
 
 #### Description:
 
-This is a data visualisation project in R. I collected this dataset using spotify API with the help of spotifyr package.Web API provides access to user related data, like playlists and music that the user saves in the Your Music library. Such access is enabled through selective authorization, by the user. This is a datset of my top 98 most listened (or played) tracks on spotify.
+This is a data visualisation project in R. I collected this dataset using spotify API with the help of spotifyr package.Web API provides access to user related data, like playlists and music that the user saves in the Your Music library. Such access is enabled through selective authorization, by the user. This is a datset of my top 100 most listened (or played) tracks on spotify.
 
 As data science is mostly about answering question with the help of data, visualising the data is a big part of it. So, In this project I tried to visualise with different plots and tried to find some answer with the visualisation.
 
